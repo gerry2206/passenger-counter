@@ -34,3 +34,9 @@ button {
 #save-btn {
     background: darkgreen;
 }
+
+p{
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: x-large;
+}
